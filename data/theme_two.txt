@@ -1,0 +1,15 @@
+Contextual Rewriting as a Sound and Complete Proof Method for Conditional
+Information Theoretic Analysis for a General Queueing System at Equilibrium with Application to Queues in Tandem
+An Incremental Mechanical Development of Systolic Solutions to the Algebraic Path Problem
+On the Performance Evaluation of Extendible Hashing and Trie Searching
+Regenerative Simulation of Response Times in Networks of Queues with Multiple Job Types
+Language Design Methods Based on Semantic Principles
+Inferring Multivalued Dependencies From Functional and Join Dependencies
+Analysis of Tree Algorithms for the Simulation Event List
+An Endogenous Priority Model for Load Control in Combined Batch-Interactive Computer Systems
+Adding inclusion dependencies to an object-oriented data model with uniqueness constraints
+Timing and Causality in Process Algebra
+The Complexity of Drawing Trees Nicely
+A new Lower Bound on the Monotone Network Complexity of Boolean Sums
+Deriving very Efficient Algorithms for Evaluating Linear Recurrence Relations Using the Program Transformation Technique
+Performance Analysis of Parallel Programs Based on Directed Acyclic Graphs
